@@ -1,0 +1,17 @@
+# Tệp hệ thống
+.DS_Store
+Thumbs.db
+
+# Tệp biên dịch và tạm
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Thư mục tạm và build
+node_modules/
+dist/
+build/
+tmp/
+temp/
