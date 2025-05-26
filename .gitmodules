@@ -1,3 +1,15 @@
 [submodule "admin-dashboard"]
 	path = admin-dashboard
 	url = https://github.com/Quindart/FinGenZ-admin
+[submodule "client"]
+	path = client
+	url = https://github.com/Quindart/FinGenZ-client
+[submodule "api"]
+	path = api
+	url = https://github.com/Quindart/FinGenZ-api
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Quindart/FinGenZ-docs
+[submodule "ai"]
+	path = ai
+	url = https://github.com/Quindart/FinGenZ-ai

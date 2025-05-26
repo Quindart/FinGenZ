@@ -1,0 +1,16 @@
+git submodule add https://github.com/Quindart/FinGenZ-admin admin-dashboard
+
+git submodule add https://github.com/Quindart/FinGenZ-ai ai
+
+git submodule add https://github.com/Quindart/FinGenZ-docs docs
+
+git submodule add https://github.com/Quindart/FinGenZ-api api
+
+git submodule add https://github.com/Quindart/FinGenZ-client client
+
+
+
+
+
+
+
